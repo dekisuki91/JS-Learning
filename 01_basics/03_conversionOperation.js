@@ -1,7 +1,7 @@
-// //let score = 33
+let sccore = 33
 
-// console.log(typeof score); //numberr
-// console.log(typeof(score));//number
+ console.log(typeof sccore); //numberr
+ console.log(typeof(sccore));//number
 
 let score = "33abc"
 console.log(typeof score); //string 
